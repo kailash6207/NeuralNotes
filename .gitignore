@@ -1,0 +1,16 @@
+# Ignore uploaded PDFs and Word Docs
+uploads/
+
+# Ignore chat memory
+chat_history.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables (if you use them later)
+.env
+.streamlit/secrets.toml
+
+# Ignore local AI model weights
+local_ai_model/
