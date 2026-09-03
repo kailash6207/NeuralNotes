@@ -1,6 +1,7 @@
 streamlit
 google-genai
 PyMuPDF
+PyPDF2
 python-docx
 sentence-transformers
 numpy
